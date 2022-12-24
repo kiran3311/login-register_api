@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/http//kiran3311.github.io/login-register_api/static/css/main.97c4e960.css",
-    "main.js": "/http//kiran3311.github.io/login-register_api/static/js/main.88fd62c5.js",
-    "static/js/787.56003de4.chunk.js": "/http//kiran3311.github.io/login-register_api/static/js/787.56003de4.chunk.js",
-    "index.html": "/http//kiran3311.github.io/login-register_api/index.html",
-    "main.97c4e960.css.map": "/http//kiran3311.github.io/login-register_api/static/css/main.97c4e960.css.map",
-    "main.88fd62c5.js.map": "/http//kiran3311.github.io/login-register_api/static/js/main.88fd62c5.js.map",
-    "787.56003de4.chunk.js.map": "/http//kiran3311.github.io/login-register_api/static/js/787.56003de4.chunk.js.map"
+    "main.css": "/login-register_api/static/css/main.97c4e960.css",
+    "main.js": "/login-register_api/static/js/main.9c717946.js",
+    "static/js/787.56003de4.chunk.js": "/login-register_api/static/js/787.56003de4.chunk.js",
+    "index.html": "/login-register_api/index.html",
+    "main.97c4e960.css.map": "/login-register_api/static/css/main.97c4e960.css.map",
+    "main.9c717946.js.map": "/login-register_api/static/js/main.9c717946.js.map",
+    "787.56003de4.chunk.js.map": "/login-register_api/static/js/787.56003de4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.97c4e960.css",
-    "static/js/main.88fd62c5.js"
+    "static/js/main.9c717946.js"
   ]
 }
