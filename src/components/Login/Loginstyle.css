@@ -1,0 +1,39 @@
+
+@import "//netdna.bootstrapcdn.com/font-awesome/3.0/css/font-awesome.css";
+
+.login-input{
+    font-family: FontAwesome;
+    background-color: rgb(33, 30, 84);
+    color: white;
+}
+.login{
+
+    display: flex;
+    justify-content: center;
+    height: 300px;
+    width:500px ;
+    background-color: rgb(65, 65, 167);
+    margin: auto;
+    border-radius: 5px;
+    
+}
+form{
+    
+    width: 300px;
+    margin-top: 40px;
+}
+.login-btn{
+    height: 50px;
+    width:300px;
+    background-color: yellow;
+    color: blue;
+}
+.login-head{
+    color: white;
+    
+}
+
+.table{
+    color: white;
+    margin-top: 400px;
+}
