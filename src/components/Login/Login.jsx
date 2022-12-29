@@ -58,7 +58,7 @@ const Login = () => {
     </div>
 
     <div>
-      <div className='table'>
+      <div className='table' style={{"color": "white"}}>
       <Table  bordered >
      
       <tbody>
